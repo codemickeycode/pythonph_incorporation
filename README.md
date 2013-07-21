@@ -8,5 +8,4 @@ Essentials
 - Articles of Incorporation
 
 Reference Materials:
-- Frequently Asked Questions
-- Links used for Reference
+- Frequently Asked Questions and Links used for Reference
