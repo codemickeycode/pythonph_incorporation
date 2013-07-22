@@ -15,4 +15,4 @@ Reference Doccumentss:
 (reference_docs/ - placed all the gov't reference docs we used in this directory.) Contains the ffg.:
 - Philippine Corporation Code
 - Revised Code
-- Articles of Incorporation and By-laws Template
+- SEC's Articles of Incorporation and By-laws Template
