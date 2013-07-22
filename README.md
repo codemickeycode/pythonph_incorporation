@@ -11,7 +11,7 @@ Essentials:
 Reference Materials:
 - Frequently Asked Questions and Links used for Reference
 
-Reference Doccumentss:
+Reference Doccuments:
 (reference_docs/ - placed all the gov't reference docs we used in this directory.) Contains the ffg.:
 - Philippine Corporation Code
 - Revised Code
