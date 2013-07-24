@@ -120,6 +120,7 @@ Name                       Community Tax Certificate No.  Date & place issued
 
 
 
+
 All known to me and to me known to be the same persons who executed the foregoing Articles of
 Incorporation and they acknowledged to me that the same is their free and voluntary act and deed.
 IN TESTIMONY WHEREOF, I have hereunto set my hand and affixed my
