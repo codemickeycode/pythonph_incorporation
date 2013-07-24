@@ -20,7 +20,9 @@ Reference Doccuments:
 
 
 To convert .rst to to ODT, HTML etc:
+```
 $ sudo pip install sphinx
 $ rst2odt.py articles.rst articles.odt
 $ rst2html.py articles.rst artcles.html
+```
 
