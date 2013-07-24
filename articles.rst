@@ -85,3 +85,15 @@ __________    day    of    ______________,    20____    ,    in    the    City/M
 
 
 ___________________ Province of _____________________, Philippines.
+
+
+ACKNOWLEDGEMENT
+Republic of the Philippines
+)
+S.S.
+)
+BEFORE ME, a notary public in and for ______________________ Philippines,
+this ____________ day of _____________, 2007 personally appeared:
+Name
+Community Tax Certificate No.
+Date & place issued
