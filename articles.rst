@@ -109,7 +109,7 @@ Republic of the Philippines
 S.S.
 )
 BEFORE ME, a notary public in and for ______________________ Philippines,
-this ____________ day of _____________, 2007 personally appeared:
+this ____________ day of _____________, 2013 personally appeared:
 Name
 Community Tax Certificate No.
 Date & place issued
