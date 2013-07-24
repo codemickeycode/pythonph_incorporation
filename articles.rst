@@ -111,9 +111,6 @@ _________________________ ______________________
 ACKNOWLEDGEMENT
 
 Republic of the Philippines
-)
-S.S.
-)
 
 
 BEFORE ME, a notary public in and for ______________________ Philippines,
@@ -128,7 +125,3 @@ Incorporation and they acknowledged to me that the same is their free and volunt
 
 IN TESTIMONY WHEREOF, I have hereunto set my hand and affixed my
 notarial seal on the date and at the place first above written.
-
-NOTARY PUBLIC
-Until December 31, 20___
-Doc. No. ____________.
