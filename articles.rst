@@ -68,7 +68,7 @@ The undersigned incorporators, all of legal age and majority of whom are residen
 +-----------------------+---------------+
 |                       |               |
 +-----------------------+---------------+
-|                       |               |
+| Total                 |               |
 +-----------------------+---------------+
 
 **EIGHT:** That no part of the income which the association may obtain as an incident to its operation shall be distributed as dividends to its members, trustees or officers subject to the provisions of the Corporation Code on dissolution. Any profit obtained by the association as a result of its operation, whenever necessary or proper shall be used for the furtherance of the purposes enumerated in Article II, subject to the provision of Title XI of the corporation code of the Philippines.
@@ -84,3 +84,70 @@ In Witness Whereof, we have hereunto signed this Articles of Incorporation, this
 __________    day    of    ______________,    20____    ,    in    the    City/Municipality    of
 
 ___________________ Province of _____________________, Philippines.
+
+
+
+
+
+_______________________	_________________________
+
+TIN	TIN
+
+
+
+
+_______________________             _________________________
+
+TIN	TIN
+
+_______________________________
+TIN
+
+WITNESSES:
+
+___________________________	______________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+ACKNOWLEDGEMENT
+
+Republic of the Philippines       )
+S.S.
+)
+
+BEFORE ME, a notary public in and for ______________________ Philippines, this ____________ day of _____________, 2007 personally appeared:
+
+
+Name	Community Tax Certificate No.         Date & place issued
+
+
+
+
+
+All known to me and to me known to be the same persons who executed the foregoing Articles of Incorporation and they acknowledged to me that the same is their free and voluntary act and deed.
+IN TESTIMONY WHEREOF, I have hereunto set my hand and affixed my notarial seal on the date and at the place first above written.
+
+
+NOTARY PUBLIC Until December 31, 20___
+Doc. No. ____________.
+
+
+Page No. ___________ .
+Book No. ___________ .
