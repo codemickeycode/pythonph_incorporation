@@ -97,3 +97,11 @@ this ____________ day of _____________, 2007 personally appeared:
 Name
 Community Tax Certificate No.
 Date & place issued
+
+All known to me and to me known to be the same persons who executed the foregoing Articles of
+Incorporation and they acknowledged to me that the same is their free and voluntary act and deed.
+IN TESTIMONY WHEREOF, I have hereunto set my hand and affixed my
+notarial seal on the date and at the place first above written.
+NOTARY PUBLIC
+Until December 31, 20___
+Doc. No. ____________.
