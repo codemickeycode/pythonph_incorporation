@@ -82,24 +82,53 @@ The undersigned incorporators, all of legal age and majority of whom are residen
 In Witness Whereof, we have hereunto signed this Articles of Incorporation, this
 
 __________    day    of    ______________,    20____    ,    in    the    City/Municipality    of
-::
-::
+
+
 ___________________ Province of _____________________, Philippines.
-::
-::
-::
+
+
+
+
 _______________________ _________________________
 TIN                      TIN
-::
-::
+
+
 _______________________ _________________________
 TIN                     TIN
-::
-::
+
+
+
 _______________________________
 TIN
-::
-::
+
+
 
 WITNESSES:
+
 _________________________ ______________________
+
+
+ACKNOWLEDGEMENT
+
+Republic of the Philippines
+)
+S.S.
+)
+
+
+BEFORE ME, a notary public in and for ______________________ Philippines,
+this ____________ day of _____________, 2013 personally appeared:
+
+
+Name     Community Tax Certificate No.     Date & place issued
+
+
+All known to me and to me known to be the same persons who executed the foregoing Articles of
+Incorporation and they acknowledged to me that the same is their free and voluntary act and deed.
+
+IN TESTIMONY WHEREOF, I have hereunto set my hand and affixed my
+notarial seal on the date and at the place first above written.
+
+NOTARY PUBLIC
+Until December 31, 20___
+Doc. No. ____________.
