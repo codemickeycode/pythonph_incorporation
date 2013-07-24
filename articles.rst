@@ -87,6 +87,11 @@ __________    day    of    ______________,    20____    ,    in    the    City/M
 ___________________ Province of _____________________, Philippines.
 
 
+WITNESSES:
+
+_________________________ ______________________
+
+
 ACKNOWLEDGEMENT
 Republic of the Philippines
 )
