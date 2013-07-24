@@ -82,22 +82,24 @@ The undersigned incorporators, all of legal age and majority of whom are residen
 In Witness Whereof, we have hereunto signed this Articles of Incorporation, this
 
 __________    day    of    ______________,    20____    ,    in    the    City/Municipality    of
-
+::
+::
 ___________________ Province of _____________________, Philippines.
-
-
+::
+::
+::
 _______________________ _________________________
 TIN                      TIN
-#
-#
+::
+::
 _______________________ _________________________
 TIN                     TIN
-#
-#
+::
+::
 _______________________________
 TIN
-#
-#
+::
+::
 
 WITNESSES:
 _________________________ ______________________
