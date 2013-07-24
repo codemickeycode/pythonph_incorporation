@@ -12,7 +12,7 @@ The undersigned incorporators, all of legal age and majority of whom are residen
 
 **THAT WE HEREBY CERTIFY:**
 
-**FIRST:** The name of the said association shall be:
+**FIRST:**  The name of the said association shall be:
             Python.PH, Inc.
 
 **SECOND:** That the purpose or purposes for which such association is incorporated are:
