@@ -1,23 +1,23 @@
 Mission/Vision
 ==================
 
-[Mickey]
+[Matt]
 
-Vision
-A bold IT organization commited to providing inspiring venues for Python enthusiasts to learn, collaborate and share knowledge.
+**Vision**
+To become an IT organization committed in culminating a culture of creativity, collaboration, and continuous learning for Python enthusiasts.
 
-Mission
-Python.PH, Inc. is an organization dedicated at developing the potential of Python programmers in the Phillipines. Our mission is to foster a diverse culture of local Pythonistas which could make a huge, lasting impact in society. Our goal is to make small dents of improvement for the Philippine IT industry and maintaining our sense of humor. We motivate and encourage local Python enthusiasts to follow their dreams and to pursue lofty goals for their programming career.
+**Mission**
+Create a positive change in the Philippine IT industry by helping local Pythonistas realize their full potential.
 
 ----
 
-[Matt]
+[Mickey]
 
-Vision
-To become an IT organization committed in culminating a culture of creativity, collaboration, and continuous learning for Python enthusiasts.
+**Vision**
+A bold IT organization commited to providing inspiring venues for Python enthusiasts to learn, collaborate and share knowledge.
 
-Mission
-Create a positive change in the Philippine IT industry by helping local Pythonistas realize their full potential.
+**Mission**
+Python.PH, Inc. is an organization dedicated at developing the potential of Python programmers in the Phillipines. Our mission is to foster a diverse culture of local Pythonistas which could make a huge, lasting impact in society. Our goal is to make small dents of improvement for the Philippine IT industry and maintaining our sense of humor. We motivate and encourage local Python enthusiasts to follow their dreams and to pursue lofty goals for their programming career.
 
 ----
 
