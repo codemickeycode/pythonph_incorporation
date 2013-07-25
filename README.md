@@ -18,13 +18,16 @@ Reference Doccuments:
 - SEC's Articles of Incorporation and By-laws Template
 
 
-
-To convert .rst to to ODT, HTML etc:
+Clone this repo and install Sphinx
 ```
 $ git clone https://github.com/codemickeycode/pythonph_incorporation.git
 $ cd pythonph_incorporation
 $ sudo pip install sphinx
+```
 
+
+To convert .rst to to ODT, HTML etc:
+```
 RST to ODT
 $ rst2odt.py <input file> <output file>
 
