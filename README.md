@@ -17,6 +17,7 @@ Reference Doccuments:
 - Revised Code
 - SEC's Articles of Incorporation and By-laws Template
 
+------
 
 Clone this repo and install Sphinx
 ```
