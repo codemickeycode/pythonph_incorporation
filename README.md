@@ -27,17 +27,23 @@ $ sudo pip install sphinx
 
 
 To convert .rst to to ODT, HTML etc:
-```
 RST to ODT
+```
 $ rst2odt.py <input file> <output file>
-Ex.:
+```
+Example:
+```
 $ rst2odt.py articles.rst articles.odt
+```
 
 RST to HTML
-$ rst2html.py <input file> <output file>
-Ex.:
-$ rst2html.py articles.rst articles.html
-
-etc.
 ```
+$ rst2html.py <input file> <output file>
+```
+Example:
+```
+$ rst2html.py articles.rst articles.html
+```
+and etc...
+
 
