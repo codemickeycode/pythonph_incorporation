@@ -18,9 +18,7 @@ The undersigned incorporators, all of legal age and majority of whom are residen
 **SECOND:** That the purpose or purposes for which such association is incorporated are:
 
 **THIRD:** That the place where the principal office of the association is to be established is at:
-            G-16 Antel Seaview Towers
-            2626 Roxas Boulevard
-            Pasay City, 1302 Philippines
+
 
 **FOURTH:** That the term for which the association is to exist is fifty (50) years from and after the date of issuance of the certificate of incorporation.
 
